@@ -1,3 +1,9 @@
+// CMSC 23: State Management
+// Task: Implement the checkout feature of the sample state management app from the lab class earlier.
+
+// Submitted by: Patricia Mae I. Vargas
+// Section: UV-1L
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'provider/shoppingcart_provider.dart';
