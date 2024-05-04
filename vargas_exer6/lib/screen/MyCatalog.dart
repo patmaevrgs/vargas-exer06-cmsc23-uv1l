@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import '../model/Item.dart';
 import "package:provider/provider.dart";
 import '../provider/shoppingcart_provider.dart';
+import '../model/Item.dart';
 
 class MyCatalog extends StatefulWidget {
   const MyCatalog({super.key});
